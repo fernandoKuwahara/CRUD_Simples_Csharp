@@ -11,7 +11,7 @@
 ### - Windows Forms.
 
 ## Quanto Tempo Levou Para Concluir o Projeto?
-### - 6.5 horas.
+### - 7 horas.
 
 ## Qual critério Criativo usou para definir o Design?
 ### - Queria criar algo simples com sistema de login, e com isto poder acessar dados próprios vinculados com o login de usuário.
