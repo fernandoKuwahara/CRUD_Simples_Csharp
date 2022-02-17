@@ -1,0 +1,47 @@
+	Caso Tenha o Xampp ou Wamp Instalados na Máquina:
+
+	1º Dê Start no MySql e Apache, e Abra o PhpMyAdmin;
+
+	Caso Não Tenha o Xampp ou Wamp Instalados na Máquina:
+
+	Baixá-los Pelo Deixados na Pasta Complementos, Caso não Tenha o Instalador, Segue
+	o Link Para Download.
+
+	Wamp - https://sourceforge.net/projects/wampserver/
+
+	Xampp - https://sourceforge.net/projects/xampp/
+
+	Criar Banco de Dados:
+
+	1º Estabeleça uma Conexão MySQL e Apache, Abra o Xampp ou Wamp, e dê start 
+	no MySQL e Apache.
+
+	2° Abra o PhpMyAdmin.
+
+	3º Vá na Aba Base de Dados(ou Data Bases), Crie um Banco de Dados com o Nome,
+	app_crud_simples.
+
+	4º Vá na Aba Importar(ou Import), Logo em Seguida Clique no Botão Escolher 
+	Arquivo, Selecione o Arquivo app_crud_simples.sql, Depois Clique no Botão 
+	Executar.
+
+	5º Pronto Os Dados Salvos Já Estão Inseridos No Banco de Dados, e o Projeto já
+	Pode Ser Usado.
+
+	Caminho Pro Executável:
+
+	- App - CRUD Simples > bin > release > net5.0-windows > App - CRUD Simples
+	Clique Duas Vezes no App - CRUD Simples(tipo: aplicativo,tamanho: 123kb) Com Essas Caraterísticas
+
+	Caminho Para Classes(Códigos Fontes):
+	- App - CRUD Simples > dentro desta pasta estaram disponíveis todas as classes do projeto sendo elas:
+
+	- JanelaCriarLista.cs
+	- JanelaDeletarConta.cs
+	- JanelaDeLogin.cs
+	- JanelaDeMenu.cs
+	- JanelaMudarSenha.cs
+	- JanelaNaoPossuiRegistro
+	- Conexao
+	- VerificarEmail
+

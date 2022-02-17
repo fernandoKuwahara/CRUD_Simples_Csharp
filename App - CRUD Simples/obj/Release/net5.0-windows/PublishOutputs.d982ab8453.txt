@@ -1,0 +1,13 @@
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\App - CRUD Simples.exe
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\App - CRUD Simples.dll
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\App - CRUD Simples.deps.json
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\App - CRUD Simples.runtimeconfig.json
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\App - CRUD Simples.pdb
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\BouncyCastle.Crypto.dll
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\Google.Protobuf.dll
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\K4os.Compression.LZ4.dll
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\K4os.Hash.xxHash.dll
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\MySql.Data.dll
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\Ubiety.Dns.Core.dll
+C:\Users\Fernando\Desktop\PROJETOS\PROJETO - C#\App - CRUD Simples\ZstdNet.dll

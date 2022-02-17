@@ -1,0 +1,62 @@
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.exe
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.deps.json
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.runtimeconfig.json
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\ref\App - CRUD Simples.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.pdb
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.Form1.resources
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.JanelaDeletarConta.resources
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.JanelaDeLogin.resources
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.JanelaDeMenu.resources
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.JanelaMudarSenha.resources
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.JanelaNaoPossuiRegistro.resources
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.csproj.GenerateResource.cache
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\ref\App - CRUD Simples.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.pdb
+C:\Users\Fernando\source\repos\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.genruntimeconfig.cache
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Fernando\source\repos\App - CRUD Simples\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.exe
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.deps.json
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.runtimeconfig.json
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.runtimeconfig.dev.json
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\ref\App - CRUD Simples.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\App - CRUD Simples.pdb
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.Form1.resources
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.JanelaDeletarConta.resources
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.JanelaDeLogin.resources
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.JanelaDeMenu.resources
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.JanelaMudarSenha.resources
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App___CRUD_Simples.JanelaNaoPossuiRegistro.resources
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.csproj.GenerateResource.cache
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\ref\App - CRUD Simples.dll
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.pdb
+C:\Users\Fernando\source\repos\a\App - CRUD Simples\obj\Debug\net5.0-windows\App - CRUD Simples.genruntimeconfig.cache
